@@ -10,11 +10,11 @@ class Header extends HTMLElement {
                             </div>
                             <div class="menu-section">
                                 <ul>
-                                    <li><a href="#" class="activelink">Home</a></li>
-                                    <li><a href="#">How It Works</a></li>
+                                    <li><a href="./index.html" class="activelink">Home</a></li>
+                                    <li><a href="./index.html#how_it_works">How It Works</a></li>
                                     <li><a href="#">Blog</a></li>
-                                    <li><a href="#">About Us</a></li>
-                                    <li><a href="#">Contact Us</a></li>
+                                    <li><a href="./about.html">About Us</a></li>
+                                    <li><a href="./contact.html">Contact Us</a></li>
                                 </ul>
                             </div>
                             <div class="link-section">
